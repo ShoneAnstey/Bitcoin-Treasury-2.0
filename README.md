@@ -62,8 +62,11 @@ Pull requests and issue submissions are welcome. The goal of this framework is t
 ---
 
 ## 🌐 Related Work
+Shone Anstey
 - [Nakamoto Effect Whitepaper](https://github.com/ShoneAnstey/NakamotoEffect)  
 - [The MAPLE Act](https://github.com/ShoneAnstey/The-MAPLE-Act)
+
+Kyle Hutchinson
 - [Lightening Bank Case Study](https://github.com/Kyle-Hutchinson/Lightning-Bank-Case-Study).
 
 
